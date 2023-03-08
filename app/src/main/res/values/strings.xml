@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="what_country_does_this_flag_belong_to">What country does this flag belong to?</string>
+    <string name="quiz_image">Quiz Image</string>
+    <string name="submit">Submit</string>
+    <string name="result">Result</string>
+    <string name="hey_congrats">Hey congrats!</string>
+    <string name="finish">FINISH</string>
+</resources>
